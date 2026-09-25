@@ -9,12 +9,12 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### Data Science & Machine Learning &nbsp;|&nbsp; MSc Bioinformatics Candidate
+### Data Analyst &nbsp;|&nbsp; Python, SQL & Machine Learning &nbsp;|&nbsp; MSc Bioinformatics Candidate
 
 <br>
 
 ![Location](https://img.shields.io/badge/A_Coru%C3%B1a-Spain-2163CA?style=flat-square)
-![Status](https://img.shields.io/badge/status-open_to_internships-2ea44f?style=flat-square)
+![Status](https://img.shields.io/badge/status-open_to_internships_%26_junior_roles-2ea44f?style=flat-square)
 ![Languages](https://img.shields.io/badge/languages-EN_%7C_ES_%7C_GL-6f42c1?style=flat-square)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-marwansaabi.github.io-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://marwansaabi.github.io)
@@ -60,6 +60,6 @@ What I care about most is honest validation — it's easy to report a model that
 
 <br>
 
-Open to Data Science / Machine Learning internships for 2026–27
+Open to Data Analyst and Data Science internships or junior roles for 2026–27
 
 </div>
