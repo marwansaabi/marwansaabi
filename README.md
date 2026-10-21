@@ -52,7 +52,7 @@ I work mainly with Python and SQL. My projects cover SQL analysis of clinical tr
 
 | Project | What it does |
 |---|---|
-| [**Clinical Trials Analysis (SQL)**](https://github.com/marwansaabi/clinical-trials-analysis) | SQL analysis of 600,000+ studies from ClinicalTrials.gov (AACT, PostgreSQL to DuckDB). Classifies 39,000 free-text stop reasons: 38% of failed trials that give a reason could not recruit enough patients |
+| [**Clinical Trials Analysis (SQL)**](https://github.com/marwansaabi/clinical-trials-analysis) | SQL analysis of 600,000+ studies from ClinicalTrials.gov (AACT, PostgreSQL to DuckDB). Classifies 39,000 free-text stop reasons: 38% of failed trials that give a reason could not recruit enough patients. [Live app](https://marwan-clinical-trials.streamlit.app) |
 | [**Retail Demand Forecasting**](https://github.com/marwansaabi/retail-demand-forecasting) | Weekly forecasts for the 50 best-selling products of an online shop, from 1M+ real transactions. LightGBM beats the best simple baseline by 4.8% wMAPE under rolling-origin backtesting |
 | [**Alzheimer's Drug Classifier**](https://github.com/marwansaabi/ml-alzheimer-classifier) | Predicts acetylcholinesterase inhibitors from 4,310 curated ChEMBL molecules. Random Forest reaches 0.92 ROC AUC on unseen chemical scaffolds (0.96 with a random split, which overestimates it) |
 | [**Melanoma Detection**](https://github.com/marwansaabi/melanoma-detection) | MSc coursework: classical computer vision pipeline that segments skin lesions and classifies them with an SVM (90.2% accuracy, 84% melanoma sensitivity on 51 images) |
