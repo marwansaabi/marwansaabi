@@ -28,7 +28,7 @@
 
 I'm a biologist finishing an MSc in Bioinformatics at the University of A Coruña. During my degree, what I enjoyed most was everything related to data: statistics, cleaning and normalising data, working with Excel and finding insights. My undergraduate thesis focused on turning images into numerical data, and that is what led me to the MSc.
 
-I work mainly with Python and SQL. My projects cover forecasting, predicting drug activity and classifying medical images, and my master's thesis (in progress) is an information system on US packaged foods built on a relational database, SQL and Power BI.
+I work mainly with Python and SQL. My projects cover SQL analysis of clinical trials, forecasting, predicting drug activity and classifying medical images, and my master's thesis (in progress) is an information system on US packaged foods built on a relational database, SQL and Power BI.
 
 ## Tech Stack
 
@@ -41,6 +41,7 @@ I work mainly with Python and SQL. My projects cover forecasting, predicting dru
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](assets/aws-badge.svg)
@@ -51,6 +52,7 @@ I work mainly with Python and SQL. My projects cover forecasting, predicting dru
 
 | Project | What it does |
 |---|---|
+| [**Clinical Trials Analysis (SQL)**](https://github.com/marwansaabi/clinical-trials-analysis) | SQL analysis of 600,000+ studies from ClinicalTrials.gov (AACT, PostgreSQL to DuckDB). Classifies 39,000 free-text stop reasons: 38% of failed trials that give a reason could not recruit enough patients |
 | [**Retail Demand Forecasting**](https://github.com/marwansaabi/retail-demand-forecasting) | Weekly forecasts for the 50 best-selling products of an online shop, from 1M+ real transactions. LightGBM beats the best simple baseline by 4.8% wMAPE under rolling-origin backtesting |
 | [**Alzheimer's Drug Classifier**](https://github.com/marwansaabi/ml-alzheimer-classifier) | Predicts acetylcholinesterase inhibitors from 4,310 curated ChEMBL molecules. Random Forest reaches 0.92 ROC AUC on unseen chemical scaffolds (0.96 with a random split, which overestimates it) |
 | [**Melanoma Detection**](https://github.com/marwansaabi/melanoma-detection) | MSc coursework: classical computer vision pipeline that segments skin lesions and classifies them with an SVM (90.2% accuracy, 84% melanoma sensitivity on 51 images) |
