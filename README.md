@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### Data Analyst &nbsp;|&nbsp; Python, SQL & Machine Learning &nbsp;|&nbsp; MSc Bioinformatics Candidate
+### MSc Bioinformatics student &nbsp;|&nbsp; Data analysis with Python & SQL &nbsp;|&nbsp; Open to data internships
 
 <br>
 
@@ -26,9 +26,9 @@
 
 ## About
 
-Biologist turned data scientist. I build machine learning systems end to end — from messy raw data to a deployed application someone can actually click on. Currently finishing an MSc in Bioinformatics for Health Sciences at the Universidade da Coruña.
+I'm a biologist finishing an MSc in Bioinformatics at the University of A Coruña. During my degree, what I enjoyed most was everything related to data: statistics, cleaning and normalising data, working with Excel and finding insights. My undergraduate thesis focused on turning images into numerical data, and that is what led me to the MSc.
 
-What I care about most is honest validation — it's easy to report a model that looks brilliant because it was quietly handed information from the future, so most of my effort goes into making sure that hasn't happened.
+I work mainly with Python and SQL. My projects cover forecasting, predicting drug activity and classifying medical images, and my master's thesis (in progress) is an information system on US packaged foods built on a relational database, SQL and Power BI.
 
 ## Tech Stack
 
@@ -51,16 +51,16 @@ What I care about most is honest validation — it's easy to report a model that
 
 | Project | What it does |
 |---|---|
-| [**AI-Driven Generative Application**](https://github.com/marwansaabi/ai-drug-designer) | Open-source web app for *de novo* molecular generation via the Google Gemini API, with an RDKit validation layer and 3D rendering |
-| [**Retail Demand Forecasting**](https://github.com/marwansaabi/retail-demand-forecasting) | Weekly SKU-level forecasts over 1M+ e-commerce transactions — LightGBM validated with rolling-origin backtesting, beating the strongest baseline by 4.8% wMAPE |
-| [**Alzheimer's Drug Classifier**](https://github.com/marwansaabi/ml-alzheimer-classifier) | ML virtual screening pipeline on ChEMBL bioactivity data, benchmarking Random Forest, SVM, XGBoost and KNN |
-| [**RNA-seq Analysis Dashboard**](https://github.com/marwansaabi/rnaseq-dashboard) | Interactive Streamlit dashboard for differential expression, PCA and pathway exploration |
-| [**Melanoma Detection**](https://github.com/marwansaabi/melanoma-detection) | Classical computer vision pipeline — segmentation + SVM, 90.2% accuracy, no deep learning |
+| [**Retail Demand Forecasting**](https://github.com/marwansaabi/retail-demand-forecasting) | Weekly forecasts for the 50 best-selling products of an online shop, from 1M+ real transactions. LightGBM beats the best simple baseline by 4.8% wMAPE under rolling-origin backtesting |
+| [**Alzheimer's Drug Classifier**](https://github.com/marwansaabi/ml-alzheimer-classifier) | Predicts acetylcholinesterase inhibitors from 4,310 curated ChEMBL molecules. Random Forest reaches 0.92 ROC AUC on unseen chemical scaffolds (0.96 with a random split, which overestimates it) |
+| [**Melanoma Detection**](https://github.com/marwansaabi/melanoma-detection) | MSc coursework: classical computer vision pipeline that segments skin lesions and classifies them with an SVM (90.2% accuracy, 84% melanoma sensitivity on 51 images) |
+| [**De Novo Drug Designer**](https://github.com/marwansaabi/ai-drug-designer) | Streamlit app that asks Google Gemini for new molecules and checks every one with RDKit before showing it |
+| [**RNA-seq Analysis Dashboard**](https://github.com/marwansaabi/rnaseq-dashboard) | Interactive Streamlit app for exploring RNA-seq data: QC, PCA and differential expression |
 
 <div align="center">
 
 <br>
 
-Open to Data Analyst and Data Science internships or junior roles for 2026–27
+Open to data analyst and data science internships or junior roles in 2027
 
 </div>
